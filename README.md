@@ -16,7 +16,7 @@
 
 ---
 
-## Contact me if you need Data Science Expertise & Interdisciplinarity Skills in Data Science Consulting Projects or Leadership Roles
+## Contact me if you need Data Science Expertise & Interdisciplinarity Skills in Consulting Projects or DS-Based Leadership Roles
 
 Kkill highlights:
 
@@ -34,12 +34,12 @@ Kkill highlights:
   - [Free Materials of CS234 at Stanford](https://youtube.com/playlist?list=PLoROMvodv4rN4wG6Nk6sNpTEbuOSosZdX)
 
 <h2> Causal Inference and Causal AI:</h2>
-- <b>Free Resources for Causal Inference & Causality (https://medium.com/@luluyan/resources-for-causal-inference-causality-cbe304aeaa61)
+- <b>[Free Resources for Causal Inference & Causality ]</b>(https://medium.com/@luluyan/resources-for-causal-inference-causality-cbe304aeaa61)
 
 <h2> Tool Transition Resources for Statistical Programming Experts: </h2>
 - <b>Free Python Materials for Experienced R & SAS Programmers </b>
-  - [Introduction to Python for Everyone, without Programming Experience](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
-  - [Free Python Intro Materials for Experienced R and Expert SAS Programmers](https://medium.com/@luluyan/python-crash-materials-for-experienced-r-and-or-expert-sas-programmers-f9a0fe8a8b40)
+  -<b> [Introduction to Python for Everyone, without Programming Experience](https://www.youtube.com/watch?v=_uQrJ0TkZlc)</b>
+  - <b>[Free Python Intro Materials for Experienced R and Expert SAS Programmers](https://medium.com/@luluyan/python-crash-materials-for-experienced-r-and-or-expert-sas-programmers-f9a0fe8a8b40)</b>
 
 
 <h2> 🤳 Connect with me:</h2>
