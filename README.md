@@ -50,7 +50,6 @@ Kkill highlights:
   - [Free Python Intro Materials for Experienced R and Expert SAS Programmers](https://medium.com/@luluyan/python-crash-materials-for-experienced-r-and-or-expert-sas-programmers-f9a0fe8a8b40)
 
 
-<h2> 🤳 Connect with me:</h2>
-[<img align="left" alt="LuluYan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+## 🤳 Connect with me:
 
-[linkedin]: https://linkedin.com/in/luluyan
+[<img align="left" alt="Lulu Yan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/luluyan)
