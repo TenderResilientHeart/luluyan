@@ -1,5 +1,5 @@
 # luluyan
-<h1>Hi, I'm Lulu <br/><a >Data Scientist</a>, <a href="https://www.linkedin.com/in/luluyan/">Quant Strategist</a>, Integrative Medicine Helper & Ex-Founder of Health-Tech Startup</a></h1>
+<h1>Hi, I'm Lulu <br/><a >Data Scientist</a>, <a >Quant Strategist</a>, Integrative Medicine Helper & Founder of Health-Tech Startup</a></h1>
 
 # Selected Skills and Competencies
 
@@ -16,7 +16,7 @@
 
 ---
 
-## How This Supports Data Science, or Manager / Director of Data Science Roles
+## How This Supports Data Science Consulting, or Manager / Director of Data Science Roles
 
 This skill set highlights:
 
