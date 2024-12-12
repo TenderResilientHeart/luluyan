@@ -27,11 +27,11 @@ Kkill highlights:
 <h2> AI Fundational Course Review:</h2>
 
 - <b>Artificial Intelligence: Principles and Techniques </b>
-  - [Free Materials of CS221 at Stanford]([(https://www.youtube.com/watch?v=ZiwogMtbjr4&list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2)]) 
+  - [Free Materials of CS221 at Stanford](https://www.youtube.com/watch?v=ZiwogMtbjr4&list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2)
 - <b>Machine Learning Principles and Techniques</b>
-  - [Free Materials of CS 229 at Stanford]([(https://www.youtube.com/watch?v=Bl4Feh_Mjvo&list=PLoROMvodv4rNyWOpJg_Yh4NSqI4Z4vOYy))
+  - [Free Materials of CS 229 at Stanford](https://www.youtube.com/watch?v=Bl4Feh_Mjvo&list=PLoROMvodv4rNyWOpJg_Yh4NSqI4Z4vOYy)
 - <b>Reinforcement Learning</b>
-  - [Free Materials of CS234 at Stanford](https://youtube.com/playlist?list=PLoROMvodv4rN4wG6Nk6sNpTEbuOSosZdX))
+  - [Free Materials of CS234 at Stanford](https://youtube.com/playlist?list=PLoROMvodv4rN4wG6Nk6sNpTEbuOSosZdX)
 
 <h2> Causal Inference and Causal AI:</h2>
 - <b>Free Resources for Causal Inference & Causality (https://medium.com/@luluyan/resources-for-causal-inference-causality-cbe304aeaa61)
