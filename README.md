@@ -24,6 +24,11 @@ Kkill highlights:
 2. **Technical Depth**: Proficiency in advanced statistical methods, machine learning, and big data technologies for scalable solutions.  
 3. **Healthcare Expertise**: Application of AI and causal inference to real-world evidence and healthcare challenges.  
 4. **Cloud & Infrastructure**: Experience with modern data pipelines and cloud ecosystems to support robust AI/ML workflows.  
+
+## Additional Resources
+
+### Artificial Intelligence
+
 <h2> AI Fundational Course Review:</h2>
 
 - <b>Artificial Intelligence: Principles and Techniques </b>
@@ -33,13 +38,16 @@ Kkill highlights:
 - <b>Reinforcement Learning</b>
   - [Free Materials of CS234 at Stanford](https://youtube.com/playlist?list=PLoROMvodv4rN4wG6Nk6sNpTEbuOSosZdX)
 
-<h2> Causal Inference and Causal AI:</h2>
-- <b>[Free Resources for Causal Inference & Causality ]</b>(https://medium.com/@luluyan/resources-for-causal-inference-causality-cbe304aeaa61)
+### Causal Inference and Causal AI
 
-<h2> Tool Transition Resources for Statistical Programming Experts: </h2>
-- <b>Free Python Materials for Experienced R & SAS Programmers </b>
-  -<b> [Introduction to Python for Everyone, without Programming Experience](https://www.youtube.com/watch?v=_uQrJ0TkZlc)</b>
-  - <b>[Free Python Intro Materials for Experienced R and Expert SAS Programmers](https://medium.com/@luluyan/python-crash-materials-for-experienced-r-and-or-expert-sas-programmers-f9a0fe8a8b40)</b>
+- **Causal Inference & Causality Resources**  
+  - [Free Resources for Causal Inference & Causality](https://medium.com/@luluyan/resources-for-causal-inference-causality-cbe304aeaa61)
+
+### Tool Transition Resources for Statistical Programming Experts
+
+- **Free Python Materials for Experienced R & SAS Programmers**  
+  - [Introduction to Python for Everyone, without Programming Experience](https://www.youtube.com/watch?v=_uQrJ0TkZlc)  
+  - [Free Python Intro Materials for Experienced R and Expert SAS Programmers](https://medium.com/@luluyan/python-crash-materials-for-experienced-r-and-or-expert-sas-programmers-f9a0fe8a8b40)
 
 
 <h2> 🤳 Connect with me:</h2>
