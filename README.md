@@ -34,7 +34,7 @@ Kkill highlights:
 - <b>Artificial Intelligence: Principles and Techniques </b>
   - [Free Materials of CS221 at Stanford](https://www.youtube.com/watch?v=ZiwogMtbjr4&list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2)
 - <b>Machine Learning Principles and Techniques</b>
-  - [Free Materials of CS 229 at Stanford](https://www.youtube.com/watch?v=Bl4Feh_Mjvo&list=PLoROMvodv4rNyWOpJg_Yh4NSqI4Z4vOYy)
+  - [Free Materials of CS229 at Stanford](https://www.youtube.com/watch?v=Bl4Feh_Mjvo&list=PLoROMvodv4rNyWOpJg_Yh4NSqI4Z4vOYy)
 - <b>Reinforcement Learning</b>
   - [Free Materials of CS234 at Stanford](https://youtube.com/playlist?list=PLoROMvodv4rN4wG6Nk6sNpTEbuOSosZdX)
 
