@@ -1,5 +1,5 @@
 # luluyan
-<h1>Hi, I'm Lulu <br/><a >Data Scientist</a>, <a >Quant Strategist</a>, Integrative Medicine Helper (Founder of a Health-Tech Startup and a Nonprofit)</a></h1>
+<h1>Hi, I'm Lulu <br/><a >Data Scientist</a>, <a >Quant Strategist</a>, Integrative Medicine Helper (Founder of a Health-Tech Startup and a TCM Nonprofit)</a></h1>
 
 # Selected Skills and Competencies
 
@@ -20,7 +20,7 @@
 
 Kkill highlights:
 
-1. **Strategic Leadership**: Ability to align data science initiatives with organizational goals in both Fortune 500 companies and high-growth startups.  
+1. **Strategic Leadership**: Ability to align data science initiatives with organizational goals in both Fortune 500 companies and startup environments.  
 2. **Technical Depth**: Proficiency in advanced statistical methods, machine learning, and big data technologies for scalable solutions.  
 3. **Healthcare Expertise**: Application of AI and causal inference to real-world evidence and healthcare challenges.  
 4. **Cloud & Infrastructure**: Experience with modern data pipelines and cloud ecosystems to support robust AI/ML workflows.  
