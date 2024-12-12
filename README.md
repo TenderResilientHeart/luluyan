@@ -1,5 +1,5 @@
 # luluyan
-<h1>Hi, I'm Lulu <br/><a >Data Scientist</a>, <a >Quant Strategist</a>, Integrative Medicine Helper & Founder of Health-Tech Startup</a></h1>
+<h1>Hi, I'm Lulu <br/><a >Data Scientist</a>, <a >Quant Strategist</a>, Integrative Medicine Helper (Founder of a Health-Tech Startup and a Nonprofit)</a></h1>
 
 # Selected Skills and Competencies
 
