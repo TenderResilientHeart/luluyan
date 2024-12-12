@@ -16,9 +16,9 @@
 
 ---
 
-## How This Supports Data Science Consulting, or Manager / Director of Data Science Roles
+## Contact me if you need Data Science Expertise & Interdisciplinarity Skills in Data Science Consulting Projects or Leadership Roles
 
-This skill set highlights:
+Kkill highlights:
 
 1. **Strategic Leadership**: Ability to align data science initiatives with organizational goals in both Fortune 500 companies and high-growth startups.  
 2. **Technical Depth**: Proficiency in advanced statistical methods, machine learning, and big data technologies for scalable solutions.  
@@ -33,8 +33,10 @@ This skill set highlights:
 - <b>Reinforcement Learning</b>
   - [Free Materials of CS234 at Stanford](https://youtube.com/playlist?list=PLoROMvodv4rN4wG6Nk6sNpTEbuOSosZdX))
 
+<h2> Causal Inference and Causal AI:</h2>
 - <b>Free Resources for Causal Inference & Causality (https://medium.com/@luluyan/resources-for-causal-inference-causality-cbe304aeaa61)
 
+<h2> Tool Transition Resources for Statistical Programming Experts: </h2>
 - <b>Free Python Materials for Experienced R & SAS Programmers </b>
   - [Introduction to Python for Everyone, without Programming Experience](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
   - [Free Python Intro Materials for Experienced R and Expert SAS Programmers](https://medium.com/@luluyan/python-crash-materials-for-experienced-r-and-or-expert-sas-programmers-f9a0fe8a8b40)
